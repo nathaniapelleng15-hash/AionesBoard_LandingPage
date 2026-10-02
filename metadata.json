@@ -1,0 +1,6 @@
+{
+  "name": "aionesboard | Ruang Kerja Dokumen untuk Tim BUMD",
+  "description": "Dari data laporan menjadi dashboard melalui percakapan dengan chatbot untuk kebutuhan kerja dan manajemen BUMD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
